@@ -8,8 +8,7 @@ To download all files simultaneously:
 
 To download a specific file:
 1.	Navigate to and click on the desired file.
-2.	Once opened, look to the right side of the screen and click either "View raw" or the icon depicting a "downward arrow pointing into a tray". This action will initiate the download of that specific file.
-
+2.	Once opened, click "View raw" located in the center of the screen or click on the icon that looks like a "downward arrow pointing into a tray" found on the right-hand side.
 
 We hope these resources prove beneficial in your endeavors. If you have questions or need further assistance, please don't hesitate to reach out.
 
